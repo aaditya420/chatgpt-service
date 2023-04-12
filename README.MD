@@ -47,11 +47,9 @@ For more detailed usage and API documentation, please refer to the [documentatio
 
 ## TODO
 
-[ ] Convert to pip package
-
-[ ] Include tests
-
-[ ] Add DB Support for chat history
+- [ ] Convert to pip package
+- [ ] Include tests
+- [ ] Add DB Support for chat history
 
 ## Contributing
 
